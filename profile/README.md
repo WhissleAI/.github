@@ -1,3 +1,2 @@
-## Hi there 👋
+Welcome to Whissle's home on Hugging Face.
 
-This is the home for Whissle on Github.
