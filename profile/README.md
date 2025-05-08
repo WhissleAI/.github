@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-This is the home for WhissleAI on Github.
+This is the home for Whissle on Github.
