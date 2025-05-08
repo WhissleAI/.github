@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-Apart from propriety research, Whissle contributes to open-source emmensely. Checkout our public repo for latest works.
+This is the home for WhissleAI on Github.
